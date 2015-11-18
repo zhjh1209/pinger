@@ -1,0 +1,15 @@
+2015-11-17 21:53:51,511 INFO  [pinger.core]-http://www.baidu.com is responding normally
+2015-11-17 21:53:51,788 INFO  [pinger.core]-http://linux.cn is responding normally
+2015-11-17 21:54:01,618 ERROR [pinger.core]-http://www.oschina.net is not available
+2015-11-17 22:08:05,226 INFO  [pinger.core]-http://www.baidu.com is responding normally
+2015-11-17 22:08:05,488 INFO  [pinger.core]-http://www.qq.com is responding normally
+2015-11-17 22:08:05,631 ERROR [pinger.core]-http://www.oschina.net is not available
+2015-11-17 22:09:07,618 INFO  [pinger.core]-http://www.baidu.com is responding normally
+2015-11-17 22:09:07,939 INFO  [pinger.core]-http://www.qq.com is responding normally
+2015-11-17 22:09:08,195 ERROR [pinger.core]-http://www.oschina.net is not available
+2015-11-17 22:10:48,179 INFO  [pinger.core]-http://www.baidu.com is responding normally
+2015-11-17 22:10:48,461 INFO  [pinger.core]-http://www.qq.com is responding normally
+2015-11-17 22:10:48,725 ERROR [pinger.core]-http://www.oschina.net is not available
+2015-11-17 22:11:51,602 INFO  [pinger.core]-http://www.baidu.com is responding normally
+2015-11-17 22:11:51,902 INFO  [pinger.core]-http://www.qq.com is responding normally
+2015-11-17 22:11:52,272 ERROR [pinger.core]-http://www.oschina.net is not available
